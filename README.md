@@ -17,7 +17,7 @@ CLI Wrapped is a fun `AI-Generated` Python script that analyzes your bash histor
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/cli-wrapped.git
+   git clone https://github.com/Omikhe/cli-wrapped.git
    cd cli-wrapped
    ```
 
