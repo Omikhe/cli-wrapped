@@ -23,13 +23,13 @@ CLI Wrapped is a fun `AI-Generated` Python script that analyzes your bash histor
 
 2. Ensure the script is executable:
    ```bash
-   chmod +x cli_wrapped.py
+   chmod +x cli-wrapped.py
    ```
 
 ## Usage
 Run the script directly:
 ```bash
-python3 cli_wrapped.py
+python3 cli-wrapped.py
 ```
 
 ## Customization
