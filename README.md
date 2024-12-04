@@ -1,7 +1,7 @@
 # CLI Wrapped 🖥️
 
 ## Overview
-CLI Wrapped is a fun Python script that analyzes your bash history and provides a Spotify Wrapped-style report of your command-line activities. Get insights into your terminal habits, top commands, and even your CLI personality!
+CLI Wrapped is a fun `AI-Generated` Python script that analyzes your bash history and provides a Spotify Wrapped-style report of your command-line activities. Get insights into your terminal habits, top commands, and even your CLI personality!
 
 ## Features
 - 📊 Total command count
